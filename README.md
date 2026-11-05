@@ -1,1 +1,1 @@
-# Manal-Rharnati
+Ich studiere Medizinische Informatik an der FH Dortmund und begeistere mich für die Entwicklung moderner, benutzerfreundlicher Webanwendungen. Mein Fokus liegt auf der Verbindung von Informatik und praxisnahen Softwarelösungen – von datengetriebenen Dashboards bis hin zu responsiven Web-Interfaces.
