@@ -30,6 +30,44 @@ A modern, responsive analytics dashboard with data visualizations and theme togg
 - **Domain:** Medical Informatics, Data Visualization
 
 ---
+# 🩺 MedTrack Maroc
+
+> **Digitale Plattform zur Verwaltung und Überprüfung von Krankenhaus-Praktikumsbescheinigungen**  
+> *Faculté de Médecine et de Pharmacie de Marrakech (FMPM) • CHU Mohammed VI*
+
+---
+
+## 📌 Übersicht
+
+**MedTrack Maroc** ist eine moderne Webanwendung zur effizienten und sicheren Verwaltung von klinischen Praktika für Medizinstudierende in Marrakesch. Die Plattform ermöglicht es der CHU-Verwaltung, Praktikumsbewertungen zu erfassen, und bietet Studierenden sofortigen Zugriff auf ihre Ergebnisse inklusive der Generierung offizieller Zertifikate im PDF-Format.
+
+---
+
+## ✨ Hauptfunktionen
+
+- 🔍 **Studenten-Portal (CNE-Abfrage):** Schnelle Suche nach Praktikumsergebnissen mittels Matrikelnummer (CNE).
+- 🏥 **Verwaltungs-Portal (CHU-Eingabe):** Erfassungsformular zur Validierung von Praktika nach Fachabteilung.
+- 📄 **PDF-Zertifikatsgenerierung:** Dynamischer Export offizieller Praktikumsbescheinigungen (auf Deutsch/Französisch) bereit zum Druck.
+- ⚡ **Echtzeit-Synchronisation:** Anbindung an eine sichere PostgreSQL-Datenbank über Supabase.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Front-end Framework:** [Next.js](https://nextjs.org/) (App Router, React, TypeScript)
+- **Styling & UI:** [Tailwind CSS](https://tailwindcss.com/), [Lucide React](https://lucide.dev/) (Icons)
+- **Datenbank:** [Supabase](https://supabase.com/) (PostgreSQL)
+- **PDF-Generierung:** `jsPDF` & `jspdf-autotable`
+- **Hosting & Deployment:** [Vercel](https://vercel.com/)
+
+---
+
+## 🚀 Lokale Installation & Start
+
+### 1. Repository klonen
+```bash
+git clone [https://github.com/manalrhranati/medtrack-maroc.git](https://github.com/manalrhranati/medtrack-maroc.git)
+cd medtrack-maroc
 
 📫 **Connect with me:**
 - 💼 [LinkedIn](https://de.linkedin.com/in/manal-rharnati-68a0b5273)
