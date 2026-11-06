@@ -68,6 +68,7 @@ A modern, responsive analytics dashboard with data visualizations and theme togg
 ```bash
 git clone [https://github.com/manalrhranati/medtrack-maroc.git](https://github.com/manalrhranati/medtrack-maroc.git)
 cd medtrack-maroc
+---
 
 📫 **Connect with me:**
 - 💼 [LinkedIn](https://de.linkedin.com/in/manal-rharnati-68a0b5273)
