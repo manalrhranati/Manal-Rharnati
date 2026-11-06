@@ -9,7 +9,7 @@
 
 ### 🩺 MedTrack Maroc
 Eine digitale Plattform zur Verwaltung und Überprüfung von Krankenhaus-Praktikumsbescheinigungen für die **FMPM** & das **CHU Mohammed VI (Marrakesch)**.
-* 🔗 **Live Demo:** (https://medtrack-maroc.vercel.app/)](https://medtrack-maroc-uhjb.vercel.app)
+* 🔗 **Live Demo:** [MedTrack Maroc auf Vercel](https://medtrack-maroc-uhjb.vercel.app)
 * 💻 **Source Code:** [GitHub Repository](https://github.com/manalrhranati/medtrack-maroc)
 * 🛠️ **Tech Stack:** Next.js (App Router), TypeScript, Tailwind CSS, Supabase (PostgreSQL), jsPDF
 
