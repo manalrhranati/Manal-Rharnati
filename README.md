@@ -44,10 +44,11 @@ A modern, responsive analytics dashboard with data visualizations and theme togg
 #### 📊 Next.js Analytics Dashboard
 A modern, responsive analytics dashboard with data visualizations and theme toggling.
 
-- 🔗 **Live Demo:** [Voir le projet sur Vercel](https://my-dashboard-iota-ten.vercel.app/)
+*Live Demo:** [Voir le projet sur Vercel](https://my-dashboard-iota-ten.vercel.app/)
 - 💻 **Source Code:** [Voir le repository GitHub](https://github.com/manalrhranati/my-dashboard)
 - 🛠️ **Tech Stack:** Next.js (App Router), TypeScript, Tailwind CSS, Recharts, next-themes
 
+---
 ---
 
 ### 🛠️ Tech Stack & Tools
