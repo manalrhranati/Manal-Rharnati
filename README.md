@@ -70,6 +70,7 @@ git clone [https://github.com/manalrhranati/medtrack-maroc.git](https://github.c
 cd medtrack-maroc
 ---
 
-### 📫 **Connect with me:**
+## 📫  Connect with me:
+
 - 💼 [LinkedIn](https://de.linkedin.com/in/manal-rharnati-68a0b5273)
 - ✉️ Email: `rharnatimanal08@gmail.com`
