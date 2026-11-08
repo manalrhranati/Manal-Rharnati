@@ -4,7 +4,45 @@
 💻 **Passionate about Web Development, Dashboards & Healthcare IT**
 
 ---
+# 🫀 Human Corps Visualizer
 
+Ein modernes, interaktives Web-Tool zur Visualisierung des menschlichen Körpers, der Organe und des vaskulären Systems. Entwickelt mit **React**, **Vite** und einem cleanen, responsiven UI im Dark-Mode-Design.
+
+🌐 **Live Demo:** [human-body-db.vercel.app](https://human-body-db.vercel.app)
+
+---
+
+## ✨ Hauptfeatures
+
+* **Interaktives 2D-Anatomie-Modell:** Ein präzises SVG-Körpermodell mit anklickbaren Hotspots für verschiedene Organe.
+* **Vaskuläres System (Adernnetz):** Ein- und ausschaltbare Arterien (rot) und Venen (blau) zur Simulation des Blutkreislaufs.
+* **Körpersystem-Filter:** Filtere gezielt nach medizinischen Kategorien wie Nervensystem, Herz-Kreislauf, Atmungssystem, Verdauungssystem, Hormonsystem und Exkretionssystem.
+* **Detaillierte Organ-Daten:** Interaktive Detailansichten mit biologischen Kennzahlen (Durchschnittsgewicht, Zelltyp/Struktur, Hauptfunktion) und lateinischen Bezeichnungen.
+* **Modernes UI/UX:** Dark-Mode mit Glasmorphism-Effekten, sanften Farbverläufen und aufgeräumter Benutzeroberfläche.
+
+---
+
+## 🚀 Technologie-Stack
+
+* **Frontend Framework:** React 18
+* **Build Tool:** Vite
+* **Styling:** Dynamic Inline Styles / CSS3
+* **Grafik:** Responsive SVG Vector Graphics
+* **Deployment:** Vercel
+
+---
+
+## 🛠️ Lokale Installation & Start
+
+Falls du das Projekt lokal auf deinem Computer ausführen möchtest:
+
+1. **Repository klonen:**
+   ```bash
+   git clone [https://github.com/manalrhranati/human-body-db.git](https://github.com/manalrhranati/human-body-db.git)
+   cd human-body-db
+
+
+   
 ## 🚀 Featured Projects
 
 ### 🩺 MedTrack Maroc
