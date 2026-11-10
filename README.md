@@ -53,5 +53,5 @@ Responsives Analytics-Dashboard mit Datenvisualisierung und Dark-/Light-Mode.
 
 ## 📫 Kontakt
 
-- 💼 [LinkedIn](DEIN-LINKEDIN-LINK)
-- ✉️ [DEINE-E-MAIL]
+- 💼 [LinkedIn](https://de.linkedin.com/in/manal-rharnati-68a0b5273)
+- ✉️ rharnatimanal08@gmail.com
