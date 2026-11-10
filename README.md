@@ -11,7 +11,7 @@
 ### 🏥 FHIR Patient Monitoring Dashboard
 Echtzeit-Dashboard für Vitalwerte, aufgebaut auf FHIR-konformen Datenmodellen. Alle Daten sind Testdaten, es werden keine echten Patientendaten verarbeitet.
 
-- 🔗 [Live-Demo](https://patient-monitoring-v8e4.vercel.app) · 💻 [Source Code](LINK-ZUM-REPO)
+- 🔗 [Live-Demo](https://patient-monitoring-v8e4.vercel.app) · 💻 [Source Code](https://github.com/manalrhranati/patient-monitoring)
 - 🛠️ Next.js (App Router), TypeScript, Tailwind CSS, FHIR
 
 ### 🩺 MedTrack Maroc
