@@ -29,7 +29,7 @@ Skalierbares E-Commerce-System mit Clean Architecture, CQRS (MediatR), FluentVal
 ### 🫀 Human Corps Visualizer
 Interaktives Web-Tool zur Visualisierung von Organen und Gefäßsystem mit klickbarem SVG-Körpermodell und Filtern nach Körpersystemen.
 
-- 🔗 [Live-Demo](https://human-body-db.vercel.app) · 💻 [Source Code](https://github.com/manalrhranati/human-body-db)
+- 🔗 [Live-Demo](https://human-body-db.vercel.app) · 💻 [Source Code]([https://github.com/manalrhranati/human-body-db]
 - 🛠️ React 18, Vite, SVG, Vercel
 
 ### 📊 Next.js Analytics Dashboard
