@@ -17,7 +17,7 @@ Echtzeit-Dashboard für Vitalwerte, aufgebaut auf FHIR-konformen Datenmodellen. 
 ### 🩺 MedTrack Maroc
 Digitale Plattform zur Verwaltung und Überprüfung von Krankenhaus-Praktikumsbescheinigungen für die FMPM und das CHU Mohammed VI (Marrakesch).
 
-- 🔗 [Live-Demo](LINK-ZUR-DEMO) · 💻 [Source Code](LINK-ZUM-REPO)
+- 🔗 [Live-Demo](LINK-ZUR-DEMO) · 💻 [Source Code](https://github.com/manalrhranati/medtrack-maroc)
 - 🛠️ Next.js (App Router), TypeScript, Tailwind CSS, Supabase (PostgreSQL), jsPDF
 
 ### 🛒 E-Commerce Clean API & Blazor Client
