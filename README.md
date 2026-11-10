@@ -35,7 +35,7 @@ Interaktives Web-Tool zur Visualisierung von Organen und Gefäßsystem mit klick
 ### 📊 Next.js Analytics Dashboard
 Responsives Analytics-Dashboard mit Datenvisualisierung und Dark-/Light-Mode.
 
-- 🔗 [Live-Demo](LINK-ZUR-DEMO) · 💻 [Source Code](LINK-ZUM-REPO)
+- 🔗 [Live-Demo](https://my-dashboard-iota-ten.vercel.app/) · 💻 [Source Code](LINK-ZUM-REPO)
 - 🛠️ Next.js (App Router), TypeScript, Tailwind CSS, Recharts, next-themes
 
 ---
