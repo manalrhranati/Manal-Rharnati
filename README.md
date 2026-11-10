@@ -4,6 +4,30 @@
 💻 **Passionate about Web Development, Dashboards & Healthcare IT**
 
 ---
+🎓 **Medical Informatics Student at FH Dortmund**  
+💻 **Passionate about Web Development, Dashboards & Healthcare IT**
+
+---
+
+## 🛒 E-Commerce Clean API & Blazor Client
+
+Ein modernes, skalierbares E-Commerce-System auf Basis von **.NET 8**, **Clean Architecture** und **Blazor WebAssembly**. Das Projekt demonstriert Best Practices inklusive **CQRS mit MediatR**, automatisierter Validierung via **FluentValidation**-Pipelines und einer strukturierten REST API.
+
+🌐 **Live Demo:** [ecommerce-clean-api.vercel.app](https://ecommerce-clean-api.vercel.app) *(oder Ihre individuelle Vercel-URL)*
+
+### ✨ Hauptfeatures
+* **Clean Architecture Layers:** Klare Trennung von `Domain`, `Application`, `Infrastructure`, `WebApi` und `BlazorApp`.
+* **Produktkatalog & Detailseiten:** Dynamische Ansichten mit GUID-basierten Routen (`/product/{id:guid}`).
+* **Vollständige CRUD-Endpunkte:** Erstellen, Lesen, Aktualisieren und Löschen von Produkten über die Web API.
+
+
+### 🚀 Technologie-Stack
+* **Framework:** .NET 8.0 SDK
+* **Frontend:** Blazor WebAssembly (Single Page Application)
+* **Backend:** ASP.NET Core Web API
+* **Muster & Tools:** CQRS (MediatR), FluentValidation, Entity Framework Core, Swagger/OpenAPI
+
+---
 # 🫀 Human Corps Visualizer
 
 Ein modernes, interaktives Web-Tool zur Visualisierung des menschlichen Körpers, der Organe und des vaskulären Systems. Entwickelt mit **React**, **Vite** und einem cleanen, responsiven UI im Dark-Mode-Design.
