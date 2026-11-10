@@ -23,7 +23,7 @@ Digitale Plattform zur Verwaltung und Überprüfung von Krankenhaus-Praktikumsbe
 ### 🛒 E-Commerce Clean API & Blazor Client
 Skalierbares E-Commerce-System mit Clean Architecture, CQRS (MediatR), FluentValidation und REST-API.
 
-- 🔗 [Live-Demo](LINK-ZUR-DEMO) · 💻 [Source Code](LINK-ZUM-REPO)
+- 🔗 [Live-Demo](LINK-ZUR-DEMO) · 💻 [Source Code](https://github.com/manalrhranati/EcommerceCleanApi)
 - 🛠️ .NET 8, ASP.NET Core Web API, Blazor WebAssembly, Entity Framework Core, Swagger/OpenAPI
 
 ### 🫀 Human Corps Visualizer
